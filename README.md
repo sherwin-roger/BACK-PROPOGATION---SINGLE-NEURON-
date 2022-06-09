@@ -1,4 +1,6 @@
-# BACK-PROPOGATION---SINGLE-NEURON
+### EX NO:04
+### DATE: 11.04.2022
+# <p align="center">BACK PROPOGATION SINGLE NEURON <p/>
 ## AIM:
 
 To write a python program to perform Back Propagation with Single Neuron.
@@ -19,6 +21,14 @@ Test data is data which has been specifically identified for use in tests, typic
 ### Backward propagation:
 Backpropagation (backward propagation) is an important mathematical tool for improving the accuracy of predictions in data mining and machine learning. Essentially, backpropagation is an algorithm used to calculate derivatives quickly.
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
 ## Algorithm:
 1. Inputs X, arrive through the preconnected path.
 2. Input is modeled using real weights W. The weights are usually randomly selected.
@@ -28,13 +38,12 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 <br/><br/>Keep repeating the process until the desired output is achieved.
 
 ## PROGRAM:
-
+```
+#Program to implement random classification.
+#Developed by   :Sherwin roger RD
+#Register Number :  212220230046
+```
 ```python
-
-Program to implement random classification.
-Developed by   : JAYASHREE RAO V
-Register Number :  212220230023
-
 import numpy as np
 i=1.5    
 w_o=0.8  
